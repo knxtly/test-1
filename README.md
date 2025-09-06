@@ -56,11 +56,11 @@ def sayHello():
 
 ## 링크
 
-<https://github.com/knxghtly/>
+<https://github.com/knxtly/>
 
-[GitHub_knxghtly](https://github.com/knxghtly/)
+[GitHub_knxtly](https://github.com/knxtly/)
 
-[GitHub_knxghtly](https://github.com/knxghtly/, "Click to move https://github.com/knxghtly/")
+[GitHub_knxtly](https://github.com/knxtly/, "Click to move https://github.com/knxtly/")
 
 ![프로필 이미지](./knxghtly_icon.jpg)
 
