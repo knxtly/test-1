@@ -62,6 +62,6 @@ def sayHello():
 
 [GitHub_knxtly](https://github.com/knxtly/, "Click to move https://github.com/knxtly/")
 
-![프로필 이미지](./knxghtly_icon.jpg)
+![프로필 이미지](./knxtly_icon.jpg)
 
 깃허브 데브를 사용해 문서를 수정 중입니다.
